@@ -29,3 +29,6 @@
     Команда позволяет наполнить базу данных тестовыми данными:
 
         docker-compose exec web python3 manage.py loaddata fixtures.json
+
+## Автор:
+    Андрей Алексеевич
